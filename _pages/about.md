@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Centre for Neural Circuits and Behaviour, University of Oxford](https://www.cncb.ox.ac.uk/)
+subtitle: <a href="https://www.cncb.ox.ac.uk/">Centre for Neural Circuits and Behaviour, University of Oxford</a>
+
 profile:
   align: right
   image: prof_pic.jpg
