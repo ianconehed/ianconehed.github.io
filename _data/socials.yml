@@ -2,12 +2,14 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+
+email: ianconehed@gmail.com # your email address
+scholar_userid: OS5b8zAAAAAJ # your Google Scholar ID
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 bluesky_url: https://bsky.app/profile/dr-conehed.bsky.social
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: ianconehed@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -30,7 +32,6 @@ email: ianconehed@gmail.com # your email address
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: OS5b8zAAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
