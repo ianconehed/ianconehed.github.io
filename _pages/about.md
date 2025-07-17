@@ -29,4 +29,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Research Scientist in Theoretical Neuroscience working in the [Rui Ponte Costa Lab](https://neuralml.github.io/team/) at the University of Oxford. TO ADD
+I am a Postdoctoral Research Scientist in Theoretical Neuroscience working in the [Rui Ponte Costa Lab](https://neuralml.github.io/team/) at the University of Oxford. My research is broadly focused on understanding how learning techniques from artificial intelligence can inform us about plasticity in the brain. I am particularly interested in how biophysically plausible learning rules can appropriately assign credit such that brain-like neural networks can develop the complex latent structure required for cognition and behaviour. I have previously studied methods of sequence learning in visual cortex and theories of splitter cell formation in the hippocampus.
