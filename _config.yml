@@ -143,13 +143,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -190,13 +190,18 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
+  - _news/
   - _pages/blog.md
   - _pages/profiles.md
   - _pages/repositories.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
+  - _pages/dropdown.md
+  - _projects/
+  - _pages/publications.md
+  - _includes/repository/
+
 keep_files:
   - CNAME
   - .nojekyll

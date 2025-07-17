@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Centre for Neural Circuits and Behaviour, University of Oxford</a>.
 
 profile:
   align: right
