@@ -54,15 +54,6 @@
       ]
     },
     {
-      "name": "Rice University",
-      "position": "Lead Teaching Assistant - Theoretical Neuroscience I and II",
-      "url": "",
-      "startDate": "2018-08-01",
-      "endDate": "2021-08-01",
-      "summary": "Instructed undergraduate and graduate students through office hours, recitation sections, and grading for advanced theoretical neuroscience courses.",
-      "highlights": []
-    },
-    {
       "name": "Rice University, Robinson Lab",
       "position": "Graduate Research Assistant",
       "url": "",
@@ -91,7 +82,7 @@
       "url": "",
       "area": "Applied Physics",
       "studyType": "PhD",
-      "startDate": "2017-08-01",
+      "startDate": "2017-08-02",
       "endDate": "2021-08-01",
       "score": "",
       "courses": ["Statistical Physics", "Quantum Mechanics", "Electromagnetism", "Theoretical Neuroscience I & II"]
@@ -119,29 +110,6 @@
       "courses": ["Computational Physics I & II", "Digital Electronics", "Mathematical Methods", "Thermal Physics", "Quantum Mechanics", "Electromagnetism", "General Relativity"]
     }
   ],
-  "awards": [
-    {
-      "title": "Travel Award, Smalley-Curl Transdisciplinary Research Symposium",
-      "date": "2019-02-01",
-      "awarder": "Rice University",
-      "url": "",
-      "summary": "Awarded to the best presenter during the SCI Transdisciplinary Research Symposium"
-    },
-    {
-      "title": "Dr. Raymond Genolio Award",
-      "date": "2017-05-01",
-      "awarder": "University of San Francisco",
-      "url": "",
-      "summary": "The University of San Francisco's award for top performing graduate in the physical sciences"
-    },
-    {
-      "title": "Research Fellowship in the Sciences",
-      "date": "2015-06-01",
-      "awarder": "University of San Francisco",
-      "url": "",
-      "summary": "The University of San Francisco's summer fellowship for continued research excellence"
-    }
-  ],
   "certificates": [],
   "publications": [
     {
@@ -149,42 +117,42 @@
       "publisher": "bioRxiv",
       "releaseDate": "2025-01-01",
       "url": "https://doi.org/10.1101/2025.06.12.659336",
-      "summary": "Theoretical framework for understanding credit assignment through behavioral timescale synaptic plasticity mechanisms."
+      "summary": ""
     },
     {
       "name": "Learning to express reward prediction error-like dopaminergic activity requires plastic representations of time",
       "publisher": "Nature Communications",
       "releaseDate": "2024-01-01",
       "url": "",
-      "summary": "Demonstrates how plastic temporal representations enable learning of dopaminergic reward prediction errors. Published in Nat Commun 15, 5856 (2024)."
+      "summary": ""
     },
     {
       "name": "Latent Representations in Hippocampal Network Model Co-Evolve with Behavioral Exploration of Task Structure",
       "publisher": "Nature Communications",
       "releaseDate": "2024-01-01",
       "url": "https://doi.org/10.1038/s41467-024-44871-6",
-      "summary": "Shows how hippocampal representations develop alongside behavioral exploration in structured tasks. Published in Nat Commun 15, 687 (2024)."
+      "summary": ""
     },
     {
       "name": "Learning precise spatiotemporal sequences via biophysically realistic learning rules in a modular, spiking network",
       "publisher": "eLife",
       "releaseDate": "2021-01-01",
       "url": "https://doi.org/10.7554/eLife.63751",
-      "summary": "Presents a biophysically realistic model for learning spatiotemporal sequences in cortical networks. Published in eLife 10, e63751 (2021)."
+      "summary": ""
     },
     {
       "name": "Behavioral Time Scale Plasticity of Place Fields: Mathematical Analysis",
       "publisher": "Frontiers in Computational Neuroscience",
       "releaseDate": "2021-01-01",
       "url": "https://doi.org/10.3389/fncom.2021.640235",
-      "summary": "Mathematical analysis of behavioral timescale plasticity in hippocampal place cells. Published in Front. Comput. Neurosci. 15 (2021)."
+      "summary": ""
     },
     {
       "name": "Evolution of Metastable Defects and its Effect on the Electronic Properties of MoS2 Films",
       "publisher": "Scientific Reports",
       "releaseDate": "2018-01-01",
       "url": "https://doi.org/10.1038/s41598-018-24913-y",
-      "summary": "Study of defect evolution in MoS2 films and their impact on electronic properties. Published in Scientific Reports 8(1), 6724 (2018)."
+      "summary": ""
     }
   ],
   "skills": [
@@ -196,7 +164,6 @@
         "Neural Network Modeling",
         "Synaptic Plasticity",
         "BTSP",
-        "Place Cells",
         "Reinforcement Learning",
         "Credit Assignment"
       ]
@@ -264,29 +231,5 @@
       ]
     }
   ],
-  "references": [],
-  "projects": [
-    {
-      "name": "Behavioral Timescale Synaptic Plasticity Framework",
-      "summary": "Developing theoretical frameworks for understanding how BTSP enables credit assignment in neural circuits, with applications to both neuroscience and AI.",
-      "highlights": [
-        "Analytical solutions for optimal plasticity",
-        "Integration with burst-based learning theories"
-      ],
-      "startDate": "2024-03-01",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Flexibly Learned Error Representations (FLEX)",
-      "summary": "A mechanistic theory showing how temporal bases for reinforcement learning develop specifically for rewarded stimuli, enabling flexible reward prediction.",
-      "highlights": [
-        "Plastic temporal representations",
-        "Dopaminergic activity modeling"
-      ],
-      "startDate": "2021-09-01",
-      "endDate": "2024-01-01",
-      "url": ""
-    }
-  ]
+  "references": []
 }
