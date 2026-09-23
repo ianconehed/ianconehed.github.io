@@ -2,17 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Centre for Neural Circuits and Behaviour, University of Oxford</a>
+subtitle: <a href='#'>Assistant Professor, Peter O'Donnell Jr. Brain Institute, UT Southwestern Medical Center</a>
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Centre for Neural Circuits and Behaviour</p>
-    <p>Mansfield Road</p>
-    <p>Oxford, UK</p>
-    <p>OX1 3SR</p>
+    <p>Peter O'Donnell Jr. Brain Institute</p>
+    <p>UT Southwestern Medical Center</p>
+    <p>5323 Harry Hines Blvd.</p>
+    <p>Dallas, TX 75390</p>
+
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,4 +31,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Research Scientist in Theoretical Neuroscience working in the [Rui Ponte Costa Lab](https://neuralml.github.io/team/) at the University of Oxford. My research is broadly focused on understanding how learning techniques from artificial intelligence can inform us about plasticity in the brain. I am particularly interested in how biophysically plausible learning rules can appropriately assign credit such that brain-like neural networks can develop the complex latent structure required for cognition and behaviour. I have previously studied methods of sequence learning in visual cortex and theories of splitter cell formation in the hippocampus.
+I am an Assistant Professor in the Peter O'Donnell Jr. Brain Institute at UT Southwestern Medical Center, with a secondary appointment in the Department of Biomedical Engineering. I lead the Computational Neuroscience (CoNe) Lab within the Program in Memory Longevity. Before starting my lab in September 2026, I was a postdoctoral researcher at Imperial College London and the University of Oxford, working with Claudia Clopath and Rui Ponte Costa. I received my Ph.D. in Applied Physics from Rice University, where I was advised by Harel Shouval.
+
+My research uses theoretical and computational models to study how synaptic plasticity, credit assignment, and network function relate to one another. In particular, the CoNe Lab asks how single-cell learning rules in the hippocampus give rise to complex cognitive maps, and how dysfunction in the underlying cellular mechanisms can disrupt the formation and maintenance of those maps. We work closely with experimental neuroscientists on a range of questions in learning and memory, using our models to generate quantitative, testable predictions. A full list of my publications is available on [Google Scholar](https://scholar.google.com/citations?user=OS5b8zAAAAAJ).
